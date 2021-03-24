@@ -1,7 +1,7 @@
 # Firecrack :fire:
 
-What is firecrack tools ?
-Firecrack tools are tools for testing and testing on websites or Facebook accounts, conducting<br>
+What is FB-bruteforce tools ?
+FB-bruteforce tools are tools for testing and testing on websites or Facebook accounts, conducting<br>
 testing on hundreds of Facebook accounts with random accounts and random wordlist, and there are<br>
 for testing websites, such as admin finder and deface with file upload method, and Bing dorking<br>
 to collect Many domains, Bing Dorking is useful if you are collecting a lot of domains.<br>
@@ -35,8 +35,8 @@ more tools: :point_down:<br>
 **Termux:**
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/Ranginang67/Firecrack`
-* `cd Firecrack`
+* `git clone https://github.com/SDMH-Hacking-TV/FB-bruteforce444`
+* `cd FB-bruteforce444`
 * `pip2 install -r requirements.txt`
 * `python2 firecrack.py`
 * `help`
@@ -45,8 +45,8 @@ more tools: :point_down:<br>
 * `apt-get install python`
 * `apt-get install python-pip`
 * `apt-get install git`
-* `git clone https://github.com/Ranginang67/Firecrack`
-* `cd Firecrack`
+* `git clone https://github.com/SDMH-Hacking-TV/FB-bruteforce444`
+* `cd FB-bruteforce444`
 * `pip install -r requirements.txt`
 * `python firecrack.py`
 * `help`
@@ -58,6 +58,12 @@ NOTE:
 2.before use firecrack deface, put your deface script one folder with firecrack.py
 ```
 
-# support me
+# support me!
 
-<a href="https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg"> <a href="https://t.me/Msambari"><img src="https://img.shields.io/badge/telegram-Ms.ambari-blue.svg">
+# Help For
+
+*Joint To [ Facebook](https://web.facebook.com/groups/termux.help.bd)!*
+
+*Subscribe to [ Channel on YouTube](https://www.youtube.com/channel/UCWMSK5cTU1dNBt8LKcZdsCw)!*
+
+
